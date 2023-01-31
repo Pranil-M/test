@@ -7,9 +7,9 @@ public class odd_number {
 			int s=11;
 			for (int f=1;f<=s;f++)
 			{
-				if(f%2!=0)
+				if(f%2==0)
 				{
-					System.out.println(f + " this is an odd number");
+					System.out.println(f + " this is an even odd number");
 				}
 			}
 		}
