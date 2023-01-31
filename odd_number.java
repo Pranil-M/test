@@ -9,7 +9,7 @@ public class odd_number {
 			{
 				if(f%2==0)
 				{
-					System.out.println(f + " this is an even odd number");
+					System.out.println(f + " is an even number");
 				}
 			}
 		}
