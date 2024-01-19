@@ -1,0 +1,30 @@
+{
+    "book": [
+        {
+            "aurthor": "Nigel Rees",
+            "category": "refrence",
+            "price": "150.5",
+            "title": "Sayings of Century"
+        },
+        {
+            "aurthor": "Evelyt Waugh",
+            "category": "fiction",
+            "price": "100",
+            "title": "Sword of Honour"
+        },
+        {
+            "aurthor": "Herman Melvile",
+            "category": "fiction",
+            "isbn": "0-553-21311-3",
+            "price": "75.5",
+            "title": "Moby Dick"
+        },
+        {
+            "aurthor": "J.R.R Tolkien",
+            "category": "fiction",
+            "isbn": "0-395-19395-8",
+            "price": "200",
+            "title": "The Lord of the Rings"
+        }
+    ]
+}
